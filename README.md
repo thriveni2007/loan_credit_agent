@@ -188,7 +188,7 @@ Cloud deployment (AWS/Azure/GCP)
 ![alt text](image-4.png)
 
 👩‍💻 Author
-Laxmiprasanna Bandam
+Thriveni Anandam
 B.Tech CSE
 BVRIT Hyderabad College of Engineering for Women
 
